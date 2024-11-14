@@ -79,7 +79,7 @@ ul
 {
     z-index: 2;
     opacity: 1;
-    animation: slideSection 1s ease;
+    /*animation: slideSection 1s ease;*/
 /*     transform: translateY(0); */  
 }
 @keyframes slideSection 
